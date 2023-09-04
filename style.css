@@ -22,7 +22,7 @@ section{
 }
 
 .cima h2{
-    font-size: cima(10px,1vw);
+    font-size: max(14px,1.4vw);
     font-family: sans-serif
 }
 
