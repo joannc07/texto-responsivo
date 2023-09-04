@@ -3,3 +3,28 @@
     margin: 0;
     box-sizing: 0;
 }
+
+.cima{
+    background-color: rgb(199, 141, 141);
+    height: 50vh;
+}
+
+.baixo{
+    background-color: aliceblue;
+    height: 50vh;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.cima h2{
+    font-size: cima(20px,2vw);
+}
+
+.baixo h2{
+font-size: min(60px,6vw);
+}
