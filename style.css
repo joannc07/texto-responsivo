@@ -22,9 +22,10 @@ section{
 }
 
 .cima h2{
-    font-size: cima(20px,2vw);
+    font-size: cima(10px,1vw);
+    font-family: sans-serif
 }
 
 .baixo h2{
-font-size: min(60px,6vw);
+font-size: min(30px,3vw);
 }
